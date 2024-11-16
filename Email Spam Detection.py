@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 
 # Importing Dataset
-dataset=pd.read_csv(r'C:\Users\vibho\Documents\Deep Learning\emails.csv')
+dataset=pd.read_csv(r'emails.csv')
 dataset.head()
 
 # Analysing th dataset
